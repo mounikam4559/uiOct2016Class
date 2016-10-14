@@ -1,0 +1,47 @@
+form{
+    border: 2px solid #66ff33
+   ;
+}
+#submit{
+	background-color: #00FFFF;
+}
+
+#reset{
+	background-color: #FF0000;
+}
+/*i am not pretty sure about this code i tried it*/
+#firstname{
+	position: relative;
+	top: 1px;
+	bottom: 10px;
+	right: 0px;
+	display: block;
+}
+#email{
+    position: relative;
+	top: 1px;
+	bottom: 10px;
+	right: 0px;
+	display: block;
+}
+#phno{
+	position: relative;
+	top: 1px;
+	bottom: 10px;
+	right: 0px;
+	display: block;
+}
+#eMail{
+	position: relative;
+	top: 1px;
+	bottom: 10px;
+	right: 0px;
+	display: block;
+}
+#Password {
+	position: relative;
+	top: 1px;
+	bottom: 10px;
+	right: 0px;
+	display: block;
+}
